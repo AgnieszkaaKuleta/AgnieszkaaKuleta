@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Cześć, jestem Filip Krawczak 👋</h1>
+  <h1>Cześć, jestem Agnieszka 👋</h1>
   <h3>Pasjonat programowania i nowych technologii</h3>
   <br>
   <p><i>Tutaj możesz napisać kilka zdań o sobie. Czym się interesujesz, nad czym obecnie pracujesz, czego się uczysz?</i></p>
@@ -10,7 +10,7 @@
 ### 📬 Skontaktuj się ze mną
 
 <p align="left">
-  <a href="https://linkedin.com/in/TWOJ-USERNAME-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/agnieszka-kuleta/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   </p>
