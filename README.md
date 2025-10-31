@@ -43,6 +43,7 @@
 ### 📊 Moje statystyki na GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgnieszkaaKuleta&theme=dark" alt="Agnieszka's GitHub Streak" />
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AgnieszkaaKuleta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Agnieszka's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgnieszkaaKuleta&layout=compact&theme=dark" alt="Agnieszka's Top Languages" />
+</p
