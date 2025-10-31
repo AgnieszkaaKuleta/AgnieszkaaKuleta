@@ -49,12 +49,12 @@
 ### 📊 Moje statystyki na GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prosto20025&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Filip's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prosto20025&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Agnieszka's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosto20025&layout=compact&theme=dark" alt="Filip's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosto20025&layout=compact&theme=dark" alt="Agnieszka's Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prosto20025&theme=dark" alt="Filip's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prosto20025&theme=dark" alt="Agnieszka's GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prosto20025&label=Odwiedziny%20Profilu&color=blueviolet&style=flat-square" alt="Profile Visitors" />
